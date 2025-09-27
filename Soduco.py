@@ -7,6 +7,7 @@
 # התהליך נמשך עד שהלוח מתמלא לחלוטין או שאין פתרון חוקי.
 
 
+
 def print_board(board):
     for i in range(9):
         row = ""
